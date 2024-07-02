@@ -1,7 +1,7 @@
 let modInfo = {
 	name: "The Territory Tree",
 	id: "777666",
-	author: "hhh101",
+	author: "diujpi",
 	pointsName: "m^2",
 	modFiles: ["prestige.js", "tree.js","expansions.js","semi-expansions.js","ascension.js"],
 
